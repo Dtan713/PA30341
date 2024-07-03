@@ -1,6 +1,6 @@
 public class PA30341part4 {
     public static void main(String[] args) {
-        int x = 15;
+        int x = 5;
 
         // Write an if-else-if statement to print different messages based on the value of x
         if (x < 10) {
